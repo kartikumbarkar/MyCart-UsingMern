@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,109,0.9419117988992471) 62%, rgba(0,212,255,1) 100%);
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}
